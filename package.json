@@ -1,5 +1,5 @@
 {
-  "name": "amazon-mws-node",
+  "name": "dg-amazon-mws",
   "version": "1.0.3",
   "description": "Tiny library for interacting with the Amazon MWS API",
   "main": "amazon.js",
